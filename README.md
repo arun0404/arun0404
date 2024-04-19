@@ -10,6 +10,8 @@
   🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead! 🚀
 </p>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun0404&label=Profile%20views&color=0e75b6&style=flat" alt="arun0404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun0404" alt="arun0404" /></a> </p>
