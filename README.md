@@ -4,7 +4,11 @@
   </h1>
 </div>
 
-<h3 align="center">A passionate frontend developer</h3>
+<p align="center">
+   👨‍🎓 Currently, I'm on an exciting journey pursuing my Final Year Bachelor of Technology in Information Technology at SRM Easwari Engineering College.
+  💻 My passion lies in the realms of Software Development, where I thrive on creating innovative solutions and exploring new technologies. 
+  🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead! 🚀
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun0404&label=Profile%20views&color=0e75b6&style=flat" alt="arun0404" /> </p>
 
