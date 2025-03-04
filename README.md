@@ -1,73 +1,96 @@
-<div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12F7DE&width=435&lines=Hello+there!+%F0%9F%91%8B%F0%9F%A4%93" alt="Typing SVG" />
-    </a>
-  </h1>
-</div>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=12F7DE&center=true&width=600&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;Machine+Learning+Engineer+%7C+AI+Researcher" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-   👨‍💻 Machine Learning Engineer at GGS Information Services, specializing in **computer vision, deep learning, and AI automation**.  
-   💡 Passionate about **YOLOv4, YOLOv8, OpenCV, and NLP**, developing real-time AI solutions for automation and predictive analytics.  
-   🚀 Exploring cutting-edge AI technologies to optimize **object detection, image processing, and NLP-based automation**.  
+  <img src="https://komarev.com/ghpvc/?username=arun0404&label=Profile%20views&color=12F7DE&style=flat" alt="Profile Views" />
 </p>
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=arun0404&label=Profile%20views&color=0e75b6&style=flat" alt="arun0404" /> 
-</p>
-
-### 🔥 Featured Projects  
-- 🚗 **Crash Impact Analysis & Failure Detection** – AI-powered **YOLOv4 & YOLOv8** model for real-time vehicle impact assessment and mechanical failure detection.  
-- 🗣 **Multilingual TTS System** – Integrated **Torch TTS, gTTS, Googletrans** to enable real-time **Odia & multilingual text-to-speech conversion**.  
-- 🤖 **Healthcare Chatbot** – NLP-powered chatbot for automated **medical assistance and health analytics**.  
 
 ---
 
-### 📫 How to reach me  
+## 🌟 About Me  
+👨‍💻 **Machine Learning Engineer at GGS Information Services** specializing in **computer vision, deep learning, and AI-driven automation**.  
+🔬 Passionate about **YOLOv4, YOLOv8, OpenCV, NLP**, and building AI-powered solutions for real-world problems.  
+🚀 Exploring **cutting-edge AI, model optimization, and TTS technology** to enhance performance and efficiency.  
+
+💡 My expertise includes:  
+✔️ **Object Detection & Image Processing** (YOLO, OpenCV, Darknet)  
+✔️ **Deep Learning** (TensorFlow, PyTorch, CNNs, Transformers)  
+✔️ **AI-Powered Automation & NLP** (BERT, T5, Google Translate API)  
+✔️ **Backend Development & APIs** (Flask, FastAPI, Gunicorn, SQLAlchemy)  
+
+---
+
+## 🏆 Featured Projects  
+🚗 **Crash Impact Analysis & Failure Detection**  
+📌 AI-powered **YOLOv4 & YOLOv8** model for **real-time vehicle impact assessment** and **mechanical failure detection**.  
+
+🗣 **Multilingual TTS System**  
+📌 Integrated **Torch TTS, gTTS, Googletrans** to enable real-time **Odia & multilingual text-to-speech conversion**.  
+
+🤖 **AI Chatbot for Healthcare**  
+📌 NLP-powered chatbot for **automated medical assistance and health analytics**.  
+
+📊 **Automated BOM Filtering for Manufacturing**  
+📌 Developed an **AI-based system** to analyze and filter **Bill of Materials (BOM)** based on **impact severity detection**.  
+
+---
+
+## 📬 How to Reach Me  
 📩 **Email:** 0404arun@gmail.com  
-
-### 🌐 Connect with me  
-<p align="left">
-<a href="https://linkedin.com/in/arun0404" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun0404" height="30" width="40" />
-</a>
-</p>
+🔗 **LinkedIn:** [arun0404](https://linkedin.com/in/arun0404)  
 
 ---
 
-### 🛠️ Languages and Tools  
-<p align="left">  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+## 🚀 Languages & Tools  
+<p align="center">  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> 
   </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="50"/> 
+  </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="80" height="50"/> 
   </a> 
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun0404&show_icons=true&locale=en&layout=compact" alt="arun0404" />
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arun0404&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun0404&show_icons=true&locale=en" alt="arun0404" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun0404&" alt="arun0404" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun0404&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arun0404&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📢 Latest Updates  
+🔹 **Currently working on:** Automating **YOLOv8 training on IIS** when **50 images** have bounding boxes with confidence **above 0.5**.  
+🔹 **Exploring:** AI optimization for **real-time object detection and NLP applications**.  
+🔹 **Upcoming Projects:** Enhancing **Crash Detection AI** and **Automated BOM filtering in manufacturing AI systems**.  
+
+---
+
+✨ **Thanks for visiting!** Feel free to explore my repositories and connect with me! 🚀💡  
