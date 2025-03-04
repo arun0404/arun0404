@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-   👨‍🎓 Currently, I'm on an exciting journey pursuing my Final Year Bachelor of Technology in Information Technology at SRM Easwari Engineering College.
-  💻 My passion lies in the realms of Software Development, where I thrive on creating innovative solutions and exploring new technologies. 
-  🌐 My goal is to contribute meaningfully to the ever-evolving field of Technology, leveraging my skills and knowledge to make a positive impact. Exciting times ahead! 🚀
+   👨‍💻 Currently working as a Machine Learning Engineer at GGS Information Services, specializing in computer vision, deep learning, and AI-powered automation.
+  💡 Passionate about building intelligent solutions using YOLOv4, YOLOv8, OpenCV, and NLP to solve real-world problems. 
+  🚀 Always exploring new technologies to enhance model performance and optimize AI applications. Excited to contribute to the ever-evolving field of machine learning and AI! 🔥
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
