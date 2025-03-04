@@ -31,10 +31,7 @@
 📌 Integrated **Torch TTS, gTTS, Googletrans** to enable real-time **Odia & multilingual text-to-speech conversion**.  
 
 🤖 **AI Chatbot for Healthcare**  
-📌 NLP-powered chatbot for **automated medical assistance and health analytics**.  
-
-📊 **Automated BOM Filtering for Manufacturing**  
-📌 Developed an **AI-based system** to analyze and filter **Bill of Materials (BOM)** based on **impact severity detection**.  
+📌 NLP-powered chatbot for **automated medical assistance and health analytics**.    
 
 ---
 
@@ -87,7 +84,6 @@
 ---
 
 ## 📢 Latest Updates  
-🔹 **Currently working on:** Automating **YOLOv8 training on IIS** when **50 images** have bounding boxes with confidence **above 0.5**.  
 🔹 **Exploring:** AI optimization for **real-time object detection and NLP applications**.  
 🔹 **Upcoming Projects:** Enhancing **Crash Detection AI** and **Automated BOM filtering in manufacturing AI systems**.  
 
