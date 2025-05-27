@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=12F7DE&center=true&width=1000&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;AI/ML+Engineer+%7C+API+Integration+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=12F7DE&center=true&width=1000&lines=Machine+Learning+Engineer+%7C+AI+Researcher" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -11,31 +11,27 @@
 ---
 
 ## 🌟 About Me  
-👨‍💻 **AI/ML Engineer at GGS Information Services**, specializing in **computer vision, backend integration, and API development**.  
-🔬 Passionate about bridging AI and data-driven systems through **YOLO, NLP, and real-time data exchange solutions**.  
-🚀 Exploring **RESTful APIs, scalable backend systems, and advanced database designs** to build robust solutions.  
+👨‍💻 **Machine Learning Engineer at GGS Information Services** specializing in **computer vision, deep learning, and AI-driven automation**.  
+🔬 Passionate about **YOLOv4, YOLOv8, OpenCV, NLP**, and building AI-powered solutions for real-world problems.  
+🚀 Exploring **cutting-edge AI, model optimization, and TTS technology** to enhance performance and efficiency.  
 
-💡 My core expertise includes:  
-✔️ **Object Detection & Image Processing** (YOLOv4, YOLOv8, OpenCV, Darknet)  
-✔️ **API Development & Integration** (Flask, FastAPI, REST APIs, LangChain)  
-✔️ **Database Design & Query Optimization** (PostgreSQL, MySQL)  
-✔️ **Deep Learning & NLP** (TensorFlow, PyTorch, Transformers, Google Translate API)  
-✔️ **Collaborative Development & Code Quality** (Git, code reviews, team-based delivery)  
+💡 My expertise includes:  
+✔️ **Object Detection & Image Processing** (YOLO, OpenCV, Darknet)  
+✔️ **Deep Learning** (TensorFlow, PyTorch, CNNs, Transformers)  
+✔️ **AI-Powered Automation & NLP** (BERT, T5, Google Translate API)  
+✔️ **Backend Development & APIs** (Flask, FastAPI, Gunicorn)  
 
 ---
 
 ## 🏆 Featured Projects  
 🚗 **Crash Impact Analysis & Failure Detection**  
-📌 YOLO-based AI system for **real-time vehicle crash impact assessment and mechanical failure analysis**.  
+📌 AI-powered **YOLOv4 & YOLOv8** model for **real-time vehicle impact assessment** and **mechanical failure detection**.  
 
-🔄 **Automated BOM Filtering & Integration**  
-📌 Developed **integration solutions for automated BOM (Bill of Materials) data processing** and **seamless API-based data exchange** with manufacturing systems.  
+🗣 **Multilingual TTS System**  
+📌 Integrated **Torch TTS, gTTS, Googletrans** to enable real-time **Odia & multilingual text-to-speech conversion**.  
 
-🗣 **Multilingual TTS & Translation System**  
-📌 Integrated **Torch TTS, gTTS, Googletrans** for real-time **multilingual text-to-speech and translation** (including Odia and other Indian languages).  
-
-🤝 **Collaborative API Integration for Adobe PDF Extract**  
-📌 Built backend pipelines using **Flask-based APIs** for extracting and structuring data from scanned documents.  
+🤖 **AI Chatbot for Healthcare**  
+📌 NLP-powered chatbot for **automated medical assistance and health analytics**.    
 
 ---
 
@@ -58,12 +54,6 @@
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="50"/> 
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
@@ -90,10 +80,4 @@
 
 ---
 
-## 📢 Latest Updates  
-🔹 **Currently working on:** Scalable **integration of REST APIs** for real-time data exchange and impact assessment tools.  
-🔹 **Upcoming projects:** Enhancing **BOM data processing with database optimization** and real-time visualization for manufacturing systems.  
-
----
-
-✨ **Thanks for visiting!** Feel free to explore my repositories and connect with me for exciting collaborations! 🚀💡  
+✨ **Thanks for visiting!** Feel free to explore my repositories and connect with me! 🚀💡  
