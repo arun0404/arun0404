@@ -37,8 +37,7 @@
 ---
 
 ## 📬 How to Reach Me  
-📩 **Email:** 0404arun@gmail.com  
-🔗 **LinkedIn:** [arun0404](https://linkedin.com/in/arun0404)  
+📩 **Email:** 0404arun@gmail.com   
 
 ---
 
