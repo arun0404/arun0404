@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arun0404&label=Profile%20views&color=12F7DE&style=flat" alt="Profile Views" />
 </p>
@@ -12,73 +11,90 @@
 ---
 
 ## 🌟 About Me  
-👨‍💻 **Machine Learning Engineer at GGS Information Services** specializing in **computer vision, deep learning, and AI-driven automation**.  
-🔬 Passionate about **YOLOv4, YOLOv8, OpenCV, NLP**, and building AI-powered solutions for real-world problems.  
-🚀 Exploring **cutting-edge AI, model optimization, and TTS technology** to enhance performance and efficiency.  
 
-💡 My expertise includes:  
-✔️ **Object Detection & Image Processing** (YOLO, OpenCV, Darknet)  
-✔️ **Deep Learning** (TensorFlow, PyTorch, CNNs, Transformers)  
-✔️ **AI-Powered Automation & NLP** (BERT, T5, Google Translate API)  
-✔️ **Backend Development & APIs** (Flask, FastAPI, Gunicorn)  
+👨‍💻 **Machine Learning Engineer at GGS Information Services**  
+🔍 Specializing in **Computer Vision**, **Deep Learning**, and **AI-driven Automation**
+
+🚀 Currently exploring:
+- **YOLOv4 & YOLOv8**
+- **OpenCV-based image processing**
+- **TTS & multilingual AI systems**
+
+🧠 Passionate about solving real-world problems using:
+- 📌 **Object Detection** | 🧠 **NLP & Transformers** | ⚙️ **Backend APIs**
+
+### 💡 My Tech Stack:
+- ✔️ **YOLO, OpenCV, Darknet**
+- ✔️ **TensorFlow, PyTorch, CNNs, Transformers**
+- ✔️ **BERT, T5, Google Translate API**
+- ✔️ **Flask, FastAPI, Gunicorn**
 
 ---
 
-## 🏆 Featured Projects  
-🚗 **Crash Impact Analysis & Failure Detection**  
-📌 AI-powered **YOLOv4 & YOLOv8** model for **real-time vehicle impact assessment** and **mechanical failure detection**.  
+## 🏆 Featured Projects
+
+🔧 **Crash Impact Analysis & Failure Detection**  
+> 🛠 AI-powered system using **YOLOv4/YOLOv8** for **vehicle damage analysis** and **mechanical fault detection**
 
 🗣 **Multilingual TTS System**  
-📌 Integrated **Torch TTS, gTTS, Googletrans** to enable real-time **Odia & multilingual text-to-speech conversion**.  
+> 🎙 Real-time **Odia & multilingual** speech using **Torch TTS**, **gTTS**, and **Googletrans**
 
 🤖 **AI Chatbot for Healthcare**  
-📌 NLP-powered chatbot for **automated medical assistance and health analytics**.    
+> 💬 NLP-based **virtual health assistant** for automated patient interaction and analytics
 
 ---
 
-## 📬 How to Reach Me  
-📩 **Email:** 0404arun@gmail.com   
+## 📬 Let's Connect!
+
+📩 **Email:** [0404arun@gmail.com](mailto:0404arun@gmail.com)
 
 ---
 
 ## 🚀 Languages & Tools  
+
 <p align="center">  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> 
   </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.tensorflow.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> 
   </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
   </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://opencv.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="80" height="50"/> 
   </a> 
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arun0404&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arun0404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun0404&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun0404&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arun0404&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arun0404&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=12F7DE&height=120&section=footer"/>
+</p>
 
-✨ **Thanks for visiting!** Feel free to explore my repositories and connect with me! 🚀💡  
+<p align="center">
+  ✨ **Thanks for visiting!** Feel free to explore my repositories and connect with me! 🚀💡  
+</p>
