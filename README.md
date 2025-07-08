@@ -27,7 +27,7 @@
 - ✔️ **YOLO, OpenCV, Darknet**
 - ✔️ **TensorFlow, PyTorch, CNNs, Transformers**
 - ✔️ **BERT, T5, Google Translate API**
-- ✔️ **Flask, FastAPI, Gunicorn**
+- ✔️ **Flask, FastAPI**
 
 ---
 
