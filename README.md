@@ -15,10 +15,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working as a **Jr. Software Engineer at GGS Information Services**, building offline RAG platforms and TTS engines for defense-sector clients.
+- 🔭 I'm currently working as a **Software Engineer at GGS Information Services**, building offline RAG platforms and TTS engines for defense-sector clients.
 - 🧠 2+ years of experience shipping **production computer vision and generative AI systems** — not just proofs of concept.
 - 🛰️ Delivered a fully offline enterprise **RAG platform** and **TTS engine** for a defense-sector client with strict data-residency requirements.
-- 🚗 Built a **YOLOv8 crash-detection model** at ~87% mAP for Volvo Truck India, cutting manual inspection effort by ~50%.
+- 🚗 Built a **YOLOv8 crash-detection model** at ~87% mAP for a leading commercial vehicle manufacturer, cutting manual inspection effort by ~50%.
 - 🎯 Fine-tuned LLMs with **LoRA/PEFT**, improving domain accuracy by ~12% over base models.
 - 🌱 Comfortable owning systems **end-to-end** — model training, API design, and deployment.
 - 💬 Ask me about RAG pipelines, computer vision, offline/on-prem LLM inference, and agentic workflows.
@@ -72,35 +72,20 @@
 
 ---
 
-### 💼 Experience
+### 📊 GitHub Stats
 
-**Jr. Software Engineer** · GGS Information Services Pvt. Ltd · *06/2024 – Present*
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arun0404&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun0404&layout=compact&hide_border=true" />
+</p>
 
-- **Defense-Sector — Offline RAG Platform:** Designed and built a fully offline Retrieval-Augmented Generation platform (Ollama, Qdrant, Podman, WSL2) covering PDF ingestion, semantic chunking, embedding generation, and context-aware retrieval for a client with strict data-residency requirements.
-- **Defense-Sector — Offline TTS Engine:** Built a fully offline text-to-speech engine with word-level synchronized highlighting and intelligent text normalization for engineering abbreviations, units, and symbols.
-- **Volvo Truck India — Crash Impact Detection:** Trained and deployed a YOLOv8/OpenCV model for real-time vehicle damage assessment, reaching ~87% mAP across three severity classes and cutting manual inspection effort by ~50%.
-- **VECV — 3D-to-2D Documentation Automation:** Built a Blender + Python pipeline converting 3D CAD assemblies into structured SVG line-art, reducing manual technical-illustration time by over 70%.
-- **LLM Fine-Tuning:** Applied LoRA/PEFT fine-tuning on Qwen for domain-specific document understanding, lifting response accuracy ~12% over the base model.
-- **Agentic Workflows:** Orchestrated LangChain agents across 4+ tools into autonomous document Q&A pipelines for enterprise knowledge bases.
-- **API & Platform:** Built and maintain 3 production Flask/FastAPI services with centralized error handling and structured JSON I/O for reliable inference at scale.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun0404&hide_border=true" />
+</p>
 
----
-
-### 📂 Featured Project
-
-**RAG-Powered Gen-AI Chatbot with Voice Interface** *(Self-Directed, Personal Time)*
-
-- Full-stack RAG chatbot built end-to-end using Flask, FAISS, LangChain, and AWS Bedrock — supporting PDF upload, automatic text extraction, and vector-based retrieval, reaching ~83% retrieval accuracy with measurably reduced hallucinations.
-- Extended with a full voice interface using AWS Polly (TTS) and Transcribe (STT) for speech-based interaction.
-
-`Python` `AWS Bedrock` `LangChain` `FAISS` `Flask` `AWS Polly` `AWS Transcribe`
-
----
-
-### 🎓 Education
-
-**Bachelor of Technology, Information Technology**
-SRM Easwari Engineering College, Chennai, India · 2020 – 2024 · CGPA: 8.54/10
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun0404&hide_border=true" />
+</p>
 
 ---
 
@@ -110,5 +95,5 @@ SRM Easwari Engineering College, Chennai, India · 2020 – 2024 · CGPA: 8.54/1
   <a href="mailto:0404arun@gmail.com">0404arun@gmail.com</a> ·
   <a href="https://github.com/arun0404">GitHub</a> ·
   <a href="https://www.linkedin.com/in/arun0404/">LinkedIn</a> ·
-  Bangalore, India · +91 9677246151
+  Bangalore, India · 
 </p>
