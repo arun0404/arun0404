@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arunkumar S</h1>
+<div  align="center" > 
+  <h1>
+<a><img  align="center"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=12F7DE&width=435&lines=Hello+there!+My+name+is+Arunkumar.+%F0%9F%91%8B%F0%9F%A4%93" alt="Typing SVG" /></a>
+  </h1>
+</div>
 <h3 align="center">AI/ML Engineer — Computer Vision & Generative AI</h3>
 
 <p align="center">
