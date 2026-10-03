@@ -110,7 +110,7 @@ I build production-grade vision and GenAI systems: from model training to APIs a
 
 <div align="center">
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun0404&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=arun0404&theme=radical)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun0404&layout=compact&hide_border=true)
 
 </div>
