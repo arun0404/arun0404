@@ -8,9 +8,10 @@ I build production-grade vision and GenAI systems: from model training to APIs a
 
 📍 Bangalore, India &nbsp;·&nbsp; 🟢 **Open to AI/ML Engineer opportunities**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arunkumar--portfolio--04.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://arunkumar-portfolio-04.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun0404)
-[![Email](https://img.shields.io/badge/Email-0404arun@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0404arun@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://arunkumar-portfolio-04.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun0404)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0404arun@gmail.com)
+
 
 </div>
 
