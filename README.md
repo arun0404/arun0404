@@ -1,94 +1,64 @@
-<h1 align="center">Hi 👋, I'm Arunkumar S</h1> <h3 align="center">
-<h3 align="center">AI/ML Engineer — Computer Vision & Generative AI</h3>
+<div align="center">
 
-<p align="center">
-  Building production-grade computer vision and generative AI systems, including fully offline solutions for security-sensitive, air-gapped environments.
-</p>
+# Hi, I'm Arunkumar S 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arun0404/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:0404arun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-informational" />
-</p>
+### AI/ML Engineer · Computer Vision & Generative AI
 
----
+I build production-grade vision and GenAI systems: from model training to APIs and deployment.
 
-### 🚀 About Me
+📍 Bangalore, India &nbsp;·&nbsp; 🟢 **Open to AI/ML Engineer opportunities**
 
-- 🔭 I'm currently working as a **Software Engineer at GGS Information Services**, building offline RAG platforms and TTS engines for defense-sector clients.
-- 🧠 2+ years of experience shipping **production computer vision and generative AI systems** — not just proofs of concept.
-- 🛰️ Delivered a fully offline enterprise **RAG platform** and **TTS engine** for a defense-sector client with strict data-residency requirements.
-- 🚗 Built a **YOLOv8 crash-detection model** at ~87% mAP for a leading commercial vehicle manufacturer, cutting manual inspection effort by ~50%.
-- 🎯 Fine-tuned LLMs with **LoRA/PEFT**, improving domain accuracy by ~12% over base models.
-- 🌱 Comfortable owning systems **end-to-end** — model training, API design, and deployment.
-- 💬 Ask me about RAG pipelines, computer vision, offline/on-prem LLM inference, and agentic workflows.
+[![Portfolio](https://img.shields.io/badge/Portfolio-arunkumar--portfolio--04.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://arunkumar-portfolio-04.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun0404)
+[![Email](https://img.shields.io/badge/Email-0404arun@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0404arun@gmail.com)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I do
 
-**Backend & APIs**
+- **2+ years** shipping computer vision and generative AI solutions as a Software Engineer at **GGS Information Services**.
+- Built **secure, fully offline RAG platforms and text-to-speech engines** for enterprise clients with strict data-security needs.
+- Trained a **YOLOv8 crash-detection model (~87% mAP)** for commercial vehicle applications.
+- **Fine-tuned LLMs with LoRA/PEFT**, improving domain-specific accuracy.
+- End-to-end ownership: model development → API design (FastAPI/Flask) → containerized deployment.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+## 🛠️ Featured projects
 
-**Generative AI**
+| Project | What it does | Stack |
+|---|---|---|
+| [**CBT**](https://github.com/arun0404/CBT) | Fully offline desktop text-to-speech reader with **word-level highlighting**, using neural TTS and forced alignment for per-word timing | Python, Flask, PyTorch, torchaudio, Piper (ONNX) |
+| [**Offline-TTS-pyttsx3**](https://github.com/arun0404/Offline-TTS-pyttsx3) | Offline Indian-language text-to-speech web app | FastAPI, pyttsx3 |
+| [**Indian Equity Portfolio Tracker**](https://github.com/arun0404/indian-equity-portfolio-tracker) | Streamlit dashboard that enriches Angel One holdings with live NSE/BSE prices: P&L, sector allocation, tax exposure, holding-period analysis | Python, Streamlit, pandas, Yahoo Finance |
+| [**Portfolio**](https://github.com/arun0404/Portfolio) · [Live](https://arunkumar-portfolio-04.vercel.app) | Personal site showcasing my CV and GenAI work | React, React-Bootstrap |
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+## 💻 Tech stack
 
-**Computer Vision**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Ultralytics%2FDarknet-blueviolet?style=flat)
+**Also:** YOLOv8 · FAISS · Qdrant · LoRA/PEFT · RAG · Streamlit · pandas
 
-**AI-Native / Agentic Development**
+## 📊 GitHub stats
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat)
+<div align="center">
 
-**Cloud & DevOps**
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arun0404&show_icons=true&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun0404&layout=compact&hide_border=true)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
-**Model Optimization**
+## 🤝 Let's connect
 
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-![GGUF/llama.cpp](https://img.shields.io/badge/GGUF-llama.cpp-black?style=flat)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun0404&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun0404&hide_border=true" />
-</p>
-
----
-
-### 📫 Reach Me
-
-<p align="left">
-  <a href="mailto:0404arun@gmail.com">0404arun@gmail.com</a> ·
-  <a href="https://github.com/arun0404">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/arun0404/">LinkedIn</a> ·
-  Bangalore, India · 
-</p>
+I'm open to AI/ML, computer vision and GenAI engineering roles. Reach me at **0404arun@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/arun0404).
